@@ -2,7 +2,7 @@ import streamlit as st
 import numpy as np
 import math
 import matplotlib.pyplot as plt  
-from matplotlib import cm
+
 import seaborn as sns
 
 st.set_page_config(
